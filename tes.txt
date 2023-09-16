@@ -5,3 +5,4 @@ git commit -m "mengedit file ini.txt"
 git push
 
 hahaha babakdbkjdbgdka
+ksjdfkjdsfkjdf
