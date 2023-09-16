@@ -1,0 +1,13 @@
+INSTRUKSI GIT
+1) git pull
+2) Edit file-file
+3) git add .
+4) git commit -m "Komentar"
+5) git push
+
+Jika konflik:
+1) git pull
+2) perbaiki konflik file
+3) git add .
+4) git commit -m "Komentar"
+5) git push
