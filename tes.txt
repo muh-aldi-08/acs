@@ -4,4 +4,4 @@ git add .
 git commit -m "mengedit file ini.txt"
 git push
 
-hahaha
+hahaha babakdbkjdbgdka
